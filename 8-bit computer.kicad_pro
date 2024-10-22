@@ -724,6 +724,10 @@
       "Instruction Register"
     ],
     [
+      "e381cba8-2a21-43d9-b5c0-5e92429e4195",
+      "Stack Pointer"
+    ],
+    [
       "1edd9e1e-9d04-450a-bcd8-79b4c2216215",
       "Program Counter"
     ],
@@ -742,6 +746,14 @@
     [
       "f776f39f-7a13-4a3f-8496-273ad52fe1d8",
       "Status Register"
+    ],
+    [
+      "65fd02f8-2d4b-4575-885b-1405be8f92e1",
+      "X Index Register"
+    ],
+    [
+      "9d2f1909-2b48-418a-aa42-41c3ff1bdffa",
+      "Y Index Register"
     ]
   ],
   "text_variables": {}

@@ -2769,6 +2769,7 @@
 	)
 	(label "C_3"
 		(at 102.87 55.88 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

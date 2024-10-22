@@ -724,12 +724,24 @@
       "Instruction Register"
     ],
     [
-      "d62a97ff-5cdb-49ca-bd72-f0d657e76d4d",
+      "1edd9e1e-9d04-450a-bcd8-79b4c2216215",
+      "Program Counter"
+    ],
+    [
+      "767e8085-4141-414d-a4d5-e5756471140d",
       "ALU"
     ],
     [
-      "1edd9e1e-9d04-450a-bcd8-79b4c2216215",
-      "Program Counter"
+      "20cc65ca-3fcd-4f63-aec4-30b7aad04319",
+      "4-bit High"
+    ],
+    [
+      "5274eaf5-2b85-4516-9694-335a2ea4829f",
+      "4-bit Low"
+    ],
+    [
+      "f776f39f-7a13-4a3f-8496-273ad52fe1d8",
+      "Status Register"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,919 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e4863ef5-37d9-4216-81ae-8d209bb59bb3")
+	(paper "A4")
+	(title_block
+		(date "2024-10-06")
+		(rev "0.1")
+	)
+	(lib_symbols)
+	(junction
+		(at 135.89 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0901262c-4770-4a01-85fc-ae854d334ac9")
+	)
+	(junction
+		(at 133.35 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29f9445b-3a92-4c1e-8827-efb64d999ca6")
+	)
+	(junction
+		(at 133.35 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "720efa0b-fe9b-426c-9af4-d694038367f1")
+	)
+	(junction
+		(at 119.38 59.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "798c47fb-159b-4431-a23c-e7c63917f555")
+	)
+	(junction
+		(at 135.89 85.09)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ca6970c-0dd9-4bd0-8dc9-4a7be5cc3a5d")
+	)
+	(junction
+		(at 133.35 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf22d199-f57e-403d-815c-0be51090e3e7")
+	)
+	(junction
+		(at 135.89 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "db4cd775-af27-44d6-b03c-2c8dacbf4f18")
+	)
+	(junction
+		(at 133.35 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb49d1c4-a389-46f7-ad00-8f008744ae45")
+	)
+	(wire
+		(pts
+			(xy 135.89 36.83) (xy 116.84 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "152478b3-e3a0-4219-9af1-df1f06e41270")
+	)
+	(wire
+		(pts
+			(xy 135.89 36.83) (xy 135.89 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19044ab0-d841-428c-85e3-c6d1387ffaf4")
+	)
+	(wire
+		(pts
+			(xy 116.84 55.88) (xy 113.03 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bcdcb6c-7d45-4b17-b03d-1586ee055b56")
+	)
+	(wire
+		(pts
+			(xy 135.89 60.96) (xy 140.97 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "246c8c6e-2778-4a6d-821f-1f065896dd0f")
+	)
+	(wire
+		(pts
+			(xy 119.38 59.69) (xy 113.03 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f6cf37d-b493-4260-ba6e-ef30b9e276d0")
+	)
+	(bus
+		(pts
+			(xy 133.35 78.74) (xy 140.97 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43dcebc5-5861-4503-89c1-c37e8c9ea851")
+	)
+	(wire
+		(pts
+			(xy 135.89 85.09) (xy 140.97 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e16b73b-6c0d-491c-8b1d-8e4f789fe98b")
+	)
+	(wire
+		(pts
+			(xy 135.89 60.96) (xy 135.89 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5050d556-12d9-4d1f-bf19-ddbc333e828a")
+	)
+	(wire
+		(pts
+			(xy 119.38 59.69) (xy 119.38 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62beeadd-683b-4dd7-ab89-e718bb7dd4e9")
+	)
+	(bus
+		(pts
+			(xy 133.35 54.61) (xy 133.35 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63925f9f-8943-45c1-b2e7-89dfebe076e4")
+	)
+	(bus
+		(pts
+			(xy 133.35 71.12) (xy 172.72 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e42b13-c233-4912-9df5-bc72ecbed045")
+	)
+	(bus
+		(pts
+			(xy 133.35 54.61) (xy 140.97 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "784801ae-cd9b-426f-8207-a2dcb28533dd")
+	)
+	(bus
+		(pts
+			(xy 133.35 71.12) (xy 133.35 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8627378d-f9c8-4eb4-b566-a7792ded6420")
+	)
+	(wire
+		(pts
+			(xy 116.84 36.83) (xy 116.84 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8837e550-d906-468f-a5c5-74349e799bae")
+	)
+	(wire
+		(pts
+			(xy 135.89 41.91) (xy 140.97 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a07bc146-8a7f-4e37-aa2c-71504bcdad90")
+	)
+	(wire
+		(pts
+			(xy 119.38 78.74) (xy 113.03 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa33dbeb-2516-4ad8-b941-41708deede67")
+	)
+	(wire
+		(pts
+			(xy 119.38 38.1) (xy 119.38 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4efb14b-7a09-4fe4-9bb2-b101cd63003a")
+	)
+	(bus
+		(pts
+			(xy 140.97 35.56) (xy 133.35 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baf848f2-e37e-481b-923c-26efe108d248")
+	)
+	(wire
+		(pts
+			(xy 119.38 38.1) (xy 137.16 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbb8c2c1-9d9b-4ef8-92c6-93e49da69901")
+	)
+	(bus
+		(pts
+			(xy 133.35 78.74) (xy 133.35 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c030d54b-cf85-49cb-abc9-e3365b594c4f")
+	)
+	(bus
+		(pts
+			(xy 133.35 74.93) (xy 133.35 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c29f6b55-e4fd-4e25-83ae-c32483d8d8bc")
+	)
+	(wire
+		(pts
+			(xy 137.16 44.45) (xy 140.97 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8590c70-4294-408e-84c7-cf685c1a8f5b")
+	)
+	(wire
+		(pts
+			(xy 135.89 85.09) (xy 135.89 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d998fa16-e781-4d6c-a31b-99ff241b552e")
+	)
+	(wire
+		(pts
+			(xy 135.89 41.91) (xy 135.89 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db5c66e2-4cb3-4940-bc05-4c5561aac4e7")
+	)
+	(bus
+		(pts
+			(xy 113.03 74.93) (xy 133.35 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc2f4e0b-3477-4776-a0a3-044d7909a01a")
+	)
+	(wire
+		(pts
+			(xy 113.03 78.74) (xy 113.03 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0f14f98-8db4-4a1b-8cf0-f7203024bb5e")
+	)
+	(bus
+		(pts
+			(xy 133.35 35.56) (xy 133.35 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e523b397-a9d4-4b43-84b7-368e0a618c0c")
+	)
+	(bus
+		(pts
+			(xy 165.1 87.63) (xy 172.72 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a4ffe5-d087-46f1-a241-3fb5f8ac5275")
+	)
+	(wire
+		(pts
+			(xy 137.16 38.1) (xy 137.16 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a5da5b-2aed-4422-83fe-824ad8f79a59")
+	)
+	(bus
+		(pts
+			(xy 165.1 63.5) (xy 172.72 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f61fb877-595e-4026-9794-86f1f87b2d34")
+	)
+	(sheet
+		(at 140.97 33.02)
+		(size 24.13 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1edd9e1e-9d04-450a-bcd8-79b4c2216215")
+		(property "Sheetname" "Program Counter"
+			(at 140.97 32.3084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Program Counter/Program Counter.kicad_sch"
+			(at 140.97 47.5746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "~{CO}" input
+			(at 165.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "8a34b43e-4e3d-48e6-85ce-ec16cef5dd0c")
+		)
+		(pin "~{CLK}" input
+			(at 140.97 44.45 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "170581e8-da3c-4a6c-ae34-8fb220434b9a")
+		)
+		(pin "CE" input
+			(at 165.1 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0801b0b2-7781-4a03-9419-4c0252f825cd")
+		)
+		(pin "~{J}" input
+			(at 165.1 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "19c747cb-d052-4879-bbf2-c73701a85e7c")
+		)
+		(pin "CLK" input
+			(at 140.97 41.91 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "823b6be2-27fd-449a-99b4-e7ce2f9a35d5")
+		)
+		(pin "Data_Bus" bidirectional
+			(at 140.97 35.56 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6077eec3-ed21-4174-9817-5518d4c455d5")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 52.07)
+		(size 24.13 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1f1cf717-293b-4085-bb3b-fa5d9053d2c4")
+		(property "Sheetname" "Register A"
+			(at 140.97 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "register module/register module.kicad_sch"
+			(at 140.97 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "CLK" input
+			(at 140.97 60.96 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6fd61139-d48a-40c7-9995-8d3e7beb28e9")
+		)
+		(pin "CLR" input
+			(at 140.97 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "07004473-3d9f-484c-aaaa-c21d791cf76e")
+		)
+		(pin "ALU" output
+			(at 165.1 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "733dcf6e-476d-4a12-b39c-3ab82f089a4a")
+		)
+		(pin "Data_Bus" bidirectional
+			(at 140.97 54.61 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "fb9b5bc1-459d-4475-b77f-a96e4711757f")
+		)
+		(pin "~{RO}" input
+			(at 165.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "936ad5d4-03ca-403d-9d33-fc6a8de355ba")
+		)
+		(pin "~{RI}" input
+			(at 165.1 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "08a858e3-de88-44e6-9e93-ea1cd3a2f4e4")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 76.2)
+		(size 24.13 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1f5f8ff8-2c18-4045-bb45-89806c1e9d39")
+		(property "Sheetname" "Register B"
+			(at 140.97 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "register module/register module.kicad_sch"
+			(at 140.97 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "ALU" output
+			(at 165.1 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "fc7307ec-b89c-4a4c-93e9-77345ecf0366")
+		)
+		(pin "Data_Bus" bidirectional
+			(at 140.97 78.74 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "b6203017-8727-4b8f-a297-5f966b4904fd")
+		)
+		(pin "CLK" input
+			(at 140.97 85.09 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e1e01446-256b-4dc9-9fe0-a8901b805a06")
+		)
+		(pin "CLR" input
+			(at 140.97 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "1990589d-4260-4bb2-95e4-31febc858da7")
+		)
+		(pin "~{RO}" input
+			(at 165.1 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "a8e94201-cf89-40f5-ad0a-19ffe296c2ce")
+		)
+		(pin "~{RI}" input
+			(at 165.1 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "33a6c812-048b-4bcd-95db-53b144451c61")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 72.39)
+		(size 22.86 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3645c5eb-ef49-45b8-8ab0-17126eecdc6e")
+		(property "Sheetname" "Instruction Register"
+			(at 90.17 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Instruction module/Instruction module.kicad_sch"
+			(at 90.17 85.6746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "ALU" output
+			(at 90.17 82.55 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "57c89823-a216-4b9d-becd-b98652a091ae")
+		)
+		(pin "Data_Bus" bidirectional
+			(at 113.03 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6e2a89fc-569a-4440-80b2-9bef9db8812f")
+		)
+		(pin "CLK" input
+			(at 113.03 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "6b3e82d2-9b61-4d3c-918b-3baa1775bd0d")
+		)
+		(pin "CLR" input
+			(at 113.03 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "30f37dc5-4bfd-4216-876f-624abcc51d93")
+		)
+		(pin "~{RI}" input
+			(at 90.17 74.93 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "2bf6dad5-beec-4fe3-8177-5cf13d72da7e")
+		)
+		(pin "~{RO}" input
+			(at 90.17 77.47 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bd0a679a-c1e4-4a62-b826-cb0d40c9b942")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 97.79 52.07)
+		(size 15.24 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4720637d-f53d-41cb-a066-32ee3c5681df")
+		(property "Sheetname" "Clock Module"
+			(at 97.79 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "clock module/clock module.kicad_sch"
+			(at 97.79 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "HLT" input
+			(at 97.79 55.88 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "e002f80e-3f1e-4ba9-9398-cafb4349b552")
+		)
+		(pin "~{CLK}" output
+			(at 113.03 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "0b49e696-4e2b-43fa-9526-78f9e86379f9")
+		)
+		(pin "CLK" output
+			(at 113.03 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "eecd52ab-99ad-46ac-9924-13fcf6700f73")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 172.72 62.23)
+		(size 17.78 27.94)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d62a97ff-5cdb-49ca-bd72-f0d657e76d4d")
+		(property "Sheetname" "ALU"
+			(at 172.72 61.5184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Arithmetic logic unit/Arithmetic logic unit.kicad_sch"
+			(at 172.72 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "BUS(A)" input
+			(at 172.72 63.5 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "5e0a54e3-a83a-4042-bfaa-773b44f5c714")
+		)
+		(pin "BUS(B)" input
+			(at 172.72 87.63 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "af5d8cfc-59e8-4524-847d-9a52498b07f4")
+		)
+		(pin "SU" input
+			(at 190.5 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "3496a327-f02f-4145-92bf-1d8c531726b0")
+		)
+		(pin "~{EO}" input
+			(at 190.5 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+			(uuid "f9749614-242b-4e6c-a383-e3ff6cfe0ab2")
+		)
+		(pin "Data_Bus" bidirectional
+			(at 172.72 71.12 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ccb2e0c6-50af-441f-9738-eced8082791f")
+		)
+		(instances
+			(project "8-bit computer"
+				(path "/e4863ef5-37d9-4216-81ae-8d209bb59bb3"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
